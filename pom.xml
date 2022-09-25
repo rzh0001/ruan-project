@@ -17,5 +17,6 @@
     <modules>
         <module>ruan-spring-boot-starter</module>
         <module>encrypt-demo</module>
+        <module>encrypt-demo2</module>
     </modules>
 </project>
